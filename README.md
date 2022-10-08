@@ -1,7 +1,4 @@
-### Hi there 👋
-
-## It's Sensente here.   
-## The whole profile will be updated later.
+### 👋
 
 <!-- ![Metrics](https://metrics.lecoq.io/sensente?template=classic&config.timezone=Asia%2FShanghai) -->
 
