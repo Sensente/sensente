@@ -11,8 +11,6 @@
 [![Page Views Count](https://badges.toozhao.com/badges/01FJFBKQVMRB042PFKPB3FHHQJ/green.svg)](https://badges.toozhao.com/stats/01FJFBKQVMRB042PFKPB3FHHQJ "Get your own page views count badge on badges.toozhao.com")
 
 
-<a href="https://clustrmaps.com/site/1bvoc"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=UNxCcqiiBlnt2_bl4VGgxLssty1FtXO_Objqan44SSQ&cl=ffffff" /></a>
-
 <!--
 **Sensente/sensente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
