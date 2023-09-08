@@ -10,6 +10,14 @@
 
 [![Page Views Count](https://badges.toozhao.com/badges/01FJFBKQVMRB042PFKPB3FHHQJ/green.svg)](https://badges.toozhao.com/stats/01FJFBKQVMRB042PFKPB3FHHQJ "Get your own page views count badge on badges.toozhao.com")
 
+Bonjour! Currently, I'm looking forward to any research internship opportunity, please feel free to contact me, thank you.
+
+- 💬 I'm an M.Sc student at Nanjing University and a member of the LANDS group, advised by Prof. Wei Wang. Before admitted by NJU without examination, I was graduated with honors from Hefei University of Technology (HFUT). I was awarded twice the Undergraduate China National Scholarship.
+
+- 🔭 My research interests are device-free and wireless sensing. Part of our related works has been accepted by ICASSP 2023. If you have any interesting ideas, please feel free to contact me.
+
+- 😄 I had a wonderful intern experience in Bytedance from Jan 2022 to May 2022. I'm also the teaching assistant for computer architecture in Nanjing University's 2023 Spring semester.
+
 
 <!--
 **Sensente/sensente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
