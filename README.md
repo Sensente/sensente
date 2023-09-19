@@ -12,7 +12,7 @@
 
 Bonjour! Currently, I'm looking forward to any research internship opportunity, please feel free to contact me, thank you.
 
-- 💬 I'm an M.Sc student at Nanjing University and a member of the LANDS group, advised by Prof. Wei Wang. Before admitted by NJU without examination, I was graduated with honors from Hefei University of Technology (HFUT). I was awarded twice the Undergraduate China National Scholarship.
+- 💬 I'm an M.Sc student at Nanjing University.
 
 - 🔭 My research interests are device-free and wireless sensing. Part of our related works has been accepted by ICASSP 2023. If you have any interesting ideas, please feel free to contact me.
 
