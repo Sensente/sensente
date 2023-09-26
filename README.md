@@ -10,7 +10,7 @@
 
 [![Page Views Count](https://badges.toozhao.com/badges/01FJFBKQVMRB042PFKPB3FHHQJ/green.svg)](https://badges.toozhao.com/stats/01FJFBKQVMRB042PFKPB3FHHQJ "Get your own page views count badge on badges.toozhao.com")
 
-Bonjour! Currently, I'm looking forward to any research internship opportunity, please feel free to contact me, thank you.
+Bonjour! Currently, I'm looking forward to any research internship opportunity, please feel free to contact me, thank you...
 
 - 💬 I'm an M.Sc student at Nanjing University.
 
