@@ -6,9 +6,6 @@
 ![sensente's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=sensente&show_icons=true&count_private=true&theme=gotham)
  -->
 
-
-[![Page Views Count](https://badges.toozhao.com/badges/01FJFBKQVMRB042PFKPB3FHHQJ/green.svg)](https://badges.toozhao.com/stats/01FJFBKQVMRB042PFKPB3FHHQJ "Get your own page views count badge on badges.toozhao.com")
-
 [Wen's Personal website](https://sensente.github.io)
 
 Bonjour! Currently, I'm looking forward to any research internship opportunity, please feel free to contact me, thank you..
@@ -19,7 +16,7 @@ Bonjour! Currently, I'm looking forward to any research internship opportunity, 
 
 - 😄 I had a wonderful intern experience in Bytedance from Jan 2022 to May 2022. I'm also the teaching assistant for computer architecture in Nanjing University's 2023 Spring semester.
 
-
+[![Page Views Count](https://badges.toozhao.com/badges/01FJFBKQVMRB042PFKPB3FHHQJ/green.svg)](https://badges.toozhao.com/stats/01FJFBKQVMRB042PFKPB3FHHQJ "Get your own page views count badge on badges.toozhao.com")
 <!--
 **Sensente/sensente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
