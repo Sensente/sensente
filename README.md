@@ -12,7 +12,7 @@ Bonjour! For now, I'm experiencing an exciting journey as an intern researcher a
 
 - 💬 I'm an M.Sc student at Nanjing University.
 
-- 🔭 My research interests are device-free and wireless sensing. I also do some fun things about LLM. If you have any interesting ideas, please feel free to contact me.
+- 🔭 My research interest is device-free and wireless sensing. I also do some fun things about LLM. If you have any interesting ideas, please feel free to contact me.
 
 - 😄 I had a wonderful intern experience in Bytedance. I'm also the teaching assistant for computer architecture in Nanjing University's 2023 Spring semester.
 
