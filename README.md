@@ -10,7 +10,7 @@
 
 Bonjour! For now, I'm experiencing an exciting journey as an intern researcher at Microsoft Research Asia (MSRA).
 
-- 💬 I'm an M.Sc student at Nanjing University.
+- 💬 I'm an M.Eng student at Nanjing University.
 
 - 🔭 My research interest is device-free and wireless sensing. I also do some fun things about LLM. If you have any interesting ideas, please feel free to contact me.
 
