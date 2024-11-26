@@ -8,13 +8,13 @@
 
 [Wen's Personal website](https://sensente.github.io)
 
-Bonjour! For now, I'm experiencing an exciting journey as an intern researcher at Microsoft Research Asia (MSRA).
+Bonjour!
 
 - 💬 I'm an M.Eng student at Nanjing University.
 
-- 🔭 My research interest is device-free and wireless sensing. I also do some fun things about LLM. If you have any interesting ideas, please feel free to contact me.
+- 🔭 My research interest is device-free and wireless sensing. I also do some fun things about LLM.
 
-- 😄 I had a wonderful intern experience in Bytedance. I'm also the teaching assistant for computer architecture in Nanjing University's 2023 Spring semester.
+- 😄 I had an exciting research intern journey at Microsoft Research Asia (MSRA) and a wonderful intern experience in ByteDance during my undergrad years.
 
 [![Page Views Count](https://badges.toozhao.com/badges/01FJFBKQVMRB042PFKPB3FHHQJ/green.svg)](https://badges.toozhao.com/stats/01FJFBKQVMRB042PFKPB3FHHQJ "Get your own page views count badge on badges.toozhao.com")
 <!--
