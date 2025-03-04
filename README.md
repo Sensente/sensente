@@ -10,7 +10,7 @@
 
 Bonjour!
 
-- 💬 I'm an M.Eng student at Nanjing University.
+- 💬 I'm an M.Sci student at Nanjing University.
 
 - 🔭 My research interest is device-free and wireless sensing. I also do some fun things about LLM.
 
