@@ -6,7 +6,7 @@
 ![sensente's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=sensente&show_icons=true&count_private=true&theme=gotham)
  -->
 
-<!--_[Wen's Personal website](https://sensente.github.io)-->
+[Wen's Personal website](https://sensente.github.io)
 
 Bonjour!
 
