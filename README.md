@@ -16,7 +16,10 @@ Bonjour!
 
 - 😄 I had an exciting research intern journey at Microsoft Research Asia (MSRA) and a wonderful intern experience in ByteDance during my undergrad years.
 
-[![Page Views Count](https://badges.toozhao.com/badges/01FJFBKQVMRB042PFKPB3FHHQJ/green.svg)](https://badges.toozhao.com/stats/01FJFBKQVMRB042PFKPB3FHHQJ "Get your own page views count badge on badges.toozhao.com")
+<!-- [![Page Views Count](https://badges.toozhao.com/badges/01FJFBKQVMRB042PFKPB3FHHQJ/green.svg)](https://badges.toozhao.com/stats/01FJFBKQVMRB042PFKPB3FHHQJ "Get your own page views count badge on badges.toozhao.com") -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sensente&style=flat-square)
+
 <!--
 **Sensente/sensente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
