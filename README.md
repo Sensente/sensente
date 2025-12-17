@@ -10,9 +10,9 @@
 
 Bonjour!
 
-- 💬 I'm a Ph.D. student at University of Washington. Previously, I earned master's degree from Nanjing University.
+- 💬 I'm a Ph.D. student at the University of Washington. Previously, I earned master's degree from Nanjing University.
 
-- 🔭 My research interest is device-free and wireless sensing. I also do some fun things about LLM.
+- 🔭 My research interests are in mobile intelligence. I also do some fun things about LLM.
 
 - 😄 I had an exciting research intern journey at Microsoft Research Asia (MSRA) and a wonderful intern experience in ByteDance during my undergrad years.
 
