@@ -10,7 +10,7 @@
 
 Bonjour!
 
-- 💬 I'm a Ph.D. student at the University of Washington. Previously, I earned master's degree from Nanjing University.
+- 💬 I'm a Ph.D. student at the University of Washington. Previously, I earned Master's degree from Nanjing University.
 
 - 🔭 My research interests are in mobile intelligence. I also do some fun things about LLM.
 
